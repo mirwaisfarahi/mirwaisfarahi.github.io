@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+![](https://img.shields.io/badge/Microverse-blueviolet) 
 
-You can use the [editor on GitHub](https://github.com/mirwaisfarahi/mirwaisfarahi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Portfolio: Mobile and Desktop Version
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> This is a HTML/CSS based portfolio mobile version template. The template can be used as a portfolio to show your profile and achievments. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Built With
 
-```markdown
-Syntax highlighted code block
+- HTML
+- CSS
+- Flexbox & CSS Grid
+- Visual Studio Code
+- Git & Github
 
-# Header 1
-## Header 2
-### Header 3
+## Live Demo (if available)
 
-- Bulleted
-- List
+- No Live Demo
 
-1. Numbered
-2. List
+## Getting Started
 
-**Bold** and _Italic_ and `Code` text
+To get a local copy up and running follow these simple example steps.
 
-[Link](url) and ![Image](src)
-```
+### Prerequisites
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- git
+- Broswer to Display
+- IDE to run and edit the code
 
-### Jekyll Themes
+### Setup
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mirwaisfarahi/mirwaisfarahi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- open a terminal
+- run ``` git clone git@github.com:mirwaisfarahi/portfolio.git```
+- run ``` cd portfolio```
+- open index.html
 
-### Support or Contact
+### Usage
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- It can be used as a HTML/CSS demo project for practice purpose.
+- It can be used as a portfolio for someone's profile.
+
+## Authors
+
+👤 **Mirwais Farahi**
+
+- GitHub: [@githubhandle](https://github.com/mirwaisfarahi)
+- Twitter: [@twitterhandle](https://twitter.com/farahi92)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
